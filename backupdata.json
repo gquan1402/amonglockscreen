@@ -4,10 +4,10 @@
   "newAppPackage": "",
   "isAdsShow": true,
   "inter": "ca-app-pub-2991887587140391/5720853518",
-  "fb_inter": "1",
-  "fb_banner": "1",
-  "fb_native": "1",
-  "isShowGG": false,
+  "fb_inter": "975014146361776_975017099694814",
+  "fb_banner": "975014146361776_975017409694783",
+  "fb_native": "975014146361776_975017316361459",
+  "isShowGG": true,
   "banner": "ca-app-pub-2991887587140391/1829709967",
   "nativeAd": "ca-app-pub-2991887587140391/9516628296",
   "rewarded": "",
@@ -15,6 +15,6 @@
   "percent_inter": 100,
   "percent_native": 100,
   "numberNativeAd": 3,
-  "numberInterAd": 15,
-  "timeRequestAd": 5000
+  "numberInterAd": 100,
+  "timeRequestAd": 3000
 }
